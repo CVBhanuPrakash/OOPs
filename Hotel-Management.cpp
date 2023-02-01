@@ -7,7 +7,7 @@ using namespace std;
 class room_bookings
 {
    int room_no;
-   string name;
+   string  name;
    string address;
    string phone;
    int days;
