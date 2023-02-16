@@ -1,6 +1,6 @@
 # Hotel-Management-System
  
-This is written in C++ using OOPs concepts.
+This is written in C++ using OOPs concepts. In this user can :
 
 1.Book a Room.
 
