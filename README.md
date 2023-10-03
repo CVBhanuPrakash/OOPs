@@ -2,16 +2,23 @@
 
 This project is implemented in C++ and follows Object-Oriented Programming (OOP) principles. I completed this project as part of my coursework in OOP. It provides a range of functionalities to manage hotel operations:
 
-1. **Room Booking:** Users can book rooms according to their preferences.
+- **Room Booking:**
+- **Customer Search:** 
+- **Room Allotment:**
+- **Customer Details Modification:** 
+- **Restaurant Food Ordering:** 
+- **Checkout:** 
+- **Automatic Bill Generation:**
 
-2. **Customer Search:** Easily find customers by room number.
+# Banking System
 
-3. **Room Allotment:** Manage and view the rooms that are currently allotted.
+## Description
+This C++ program simulates a basic banking system. It allows users to create accounts, view account balances, deposit and withdraw money, and transfer funds between accounts.
 
-4. **Customer Details Modification:** Update customer information as needed.
+## Features
+- Create new accounts for existing customers.
+- View the balance of a specific account.
+- Deposit money into an account.
+- Withdraw money from an account.
+- Transfer funds between two accounts.
 
-5. **Restaurant Food Ordering:** Guests can order food from the hotel's restaurant.
-
-6. **Checkout:** Efficiently check out of the hotel.
-
-7. **Automatic Bill Generation:** The system automates the process of generating bills, including charges for services used during the stay.
